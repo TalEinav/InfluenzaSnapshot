@@ -1,5 +1,4 @@
-# InfluenzaSnapshot
-SnapShot: Influenza by the Numbers
+# SnapShot: Influenza by the Numbers
 Authors: Tal Einav, Lauren E. Gentles, Jesse D. Bloom
 
-The Supporting Information file contains an extensive list of references for the Cell SnapShot titled Influenza by the Numbers. The key information from multiple publications is summarized, and summary tables for multiple statistics are presented to give a sense of both the average value and the variation for the statistics presented.
+The Supporting Information file contains an extensive list of references for the SnapShot. As shown in the Table of Contents, the information is split into four sections (Dimensions, Antibody Response, Infection Dynamics, and Quantification) and then further split into subsections within these cateogries. Summary tables are given for multiple statistics to present both its average value and variation.
